@@ -1,5 +1,6 @@
 {
   "name": "jquery",
   "version": "2.1.1",
-  "description": "jQuery"
+  "description": "jQuery",
+  "main": "jquery.js"
 }
